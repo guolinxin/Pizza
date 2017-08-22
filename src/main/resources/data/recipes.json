@@ -1,0 +1,21 @@
+{
+  "recipes": [
+    {
+      "pizzaId": "pepperoni",
+      "ingredients": ["cheese", "sausage", "tomato", "pepperoni"]
+    },
+    {
+      "pizzaId": "margarita",
+      "ingredients": ["cheese", "tomato"]
+    },
+    {
+      "pizzaId": "hot-chicken",
+      "ingredients": ["chicken", "chili", "tomato", "onion", "cheese"]
+    },
+    {
+      "pizzaId": "mushroom",
+      "ingredients": [ "tomato", "mushroom", "cheese", "onion"]
+    }
+  ]
+}
+
